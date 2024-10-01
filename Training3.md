@@ -25,8 +25,7 @@ score along the optimization cycles (if the “recycles parameter” is differen
 Search for the human thymidylate kinase (PDB code 1E2F) in the protein databank (www.rcsb.org). Search for the secondary structure limits of the protein in PDBSum (http://www.ebi.ac.uk/pdbsum; "Protein" tab, "7 strands" and "11 helices" in the menu on the left). A secondary structure assignation is also provided in the PDB file, sections "HELIX" and "SHEET" (from the PDB website, menu "Display file", "PDB file", find the "HELIX" and "SHEET" sections). Compare both secondary structure assignations (from PDBSum and from the PDB file). Why are they slightly different?
 
 ### 2. Sequence – structure relationships
-A] Read the paper of Malkov et al. (2008), available on the Virtual University, by focusing on the “Introduction” and the “Results and discussion” sections.  MA1 Bioinformatics and Modelling Biophysics and Structural Bioinformatics I
-Practicals
+A] Read the paper of Malkov et al. (2008), available on the Virtual University, by focusing on the “Introduction” and the “Results and discussion” sections.
 
 B] Use the Table 1 of the paper of Malkov et al. to design the following peptides, and use the tweaked ColabFold tool provided in the notebook “BINFF403_TP3_ColabFold.ipynb” to test the fold of these peptides. First, set the ColabFold “recycles” parameter to 0.
 
@@ -55,10 +54,12 @@ regions in the structure of the whole protein ?
 B] Submit the prion_seq1.fasta sequence to ColabFold (set the “recycles” parameter to 12).
 Download the modelled structure. For that purpose:
 • click on the “folder” icon on the left of the notebook (see the red arrow on the following
-figure) ;
+figure) 
+<img width="944" alt="Screenshot 2024-10-01 at 14 42 19" src="https://github.com/user-attachments/assets/b5c2b1ec-82f5-4ebb-b8da-c8f3ff8116de">
+
 • download the file “out.pdb”, which contains the modelled structure, and rename this
 file. 
-MA1 Bioinformatics and Modelling Biophysics and Structural Bioinformatics I
+
 Submit then the prion_seq2.fasta sequence to ColabFold (set the “recycles” parameter to 12)
 and download the modelled structure of this second sequence region.
 
