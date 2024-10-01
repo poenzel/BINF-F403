@@ -1,4 +1,4 @@
-### Training 1
+## Training 1
 #### 30 Oct 2024
 
 ### 1. Quality of experimental structures
