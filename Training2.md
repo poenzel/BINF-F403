@@ -1,4 +1,5 @@
-### Practicals 2
+## Training 2
+#### 6 Nov 2024
 
 Classification and protein structure alignment
 
