@@ -8,5 +8,5 @@ Index
 - [TP - Training1](./Training1.md) - 20241030
 - [TP - Training2](./Training2.md) - 20241106
 - [TP - Training3](./Training3.md) - 20241113
-- [TP - Training3](./Training4.md) - 20241120
-- [TP - Training3](./Training5.md) - 20241127
+- [TP - Training4](./Training4.md) - 20241120
+- [TP - Training5](./Training5.md) - 20241127
