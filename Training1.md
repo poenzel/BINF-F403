@@ -108,5 +108,5 @@ clashes.
 ### References 
 - [PyMol Command Reference](https://pymol.org/pymol-command-ref.html)
 - [Practical PyMol for beginners](https://pymolwiki.org/index.php/Practical_Pymol_for_Beginners) - PyMol Wiki
-- [pymol_userman.pdf](./files/pymol_userman.pdf)
+- [PyMol User Guide](./files/pymol_userman.pdf)
 
