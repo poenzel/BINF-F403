@@ -7,5 +7,5 @@ This repository is intended as a resource for students of the ULB, following the
 - [TP - Training1](./lessons/Training1.md) - 20241030 - Simone
 - [TP - Training2](./lessons/Training2.md) - 20241106 - Simone
 - [TP - Training3](./lessons/Training3.md) - 20241113 - Simone
-- [TP - Training4](./lessons/Training4.md) - 20241127 - Pauline
-- [TP - Training5](./lessons/Training5.md) - 20241204 - Pauline
+- [TP - Training4 and 5](./lessons/Training4and5.md) - 20241127 - Pauline
+- [TP - Training5](./lessons/Training4and5.md) - 20241204 - Pauline
