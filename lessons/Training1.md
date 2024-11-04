@@ -113,6 +113,10 @@ clashes.
 ### Additional 
 - [Asimmetric unit and Biological Unit](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)
 - [Biological Unit](https://proteopedia.org/wiki/index.php/Biological_unit)
-- [Running Wizard from Command Line](https://pymol.org/dokuwiki/doku.php?id=command:wizard)
-- 
+- [Running Wizard in PyMol from Command Line](https://pymol.org/dokuwiki/doku.php?id=command:wizard)
+
+Transmission of Prions
+- [A brief history of prions](https://pmc.ncbi.nlm.nih.gov/articles/PMC4626585/#bib99)
+- [Kuru Disease](https://en.wikipedia.org/wiki/Kuru_(disease))
+- [Iatrogenic CJD](https://www.neurology.org/doi/abs/10.1212/WNL.37.9.1520)
 
