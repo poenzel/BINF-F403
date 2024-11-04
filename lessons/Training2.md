@@ -5,12 +5,12 @@ Classification and protein structure alignment
 
 ### 1. Search for protein domains and their structure
 
-Search in the Uniprot database (www.uniprot.org) the protein with the code Q12923.
-• What is the sequence length of this protein?
-• Can you cite some domains found in this protein?
-• To which domain does the PDB code structure 3PDZ correspond?
-• Are there disordered regions in this protein? If so, were the annotations made automatically or by experimental measurement?
-• Is there an experimental structure for the whole protein?
+- Search in the Uniprot database (www.uniprot.org) the protein with the code Q12923.
+- What is the sequence length of this protein?
+- Can you cite some domains found in this protein?
+- To which domain does the PDB code structure 3PDZ correspond?
+- Are there disordered regions in this protein? If so, were the annotations made automatically or by experimental measurement?
+- Is there an experimental structure for the whole protein?
 
 ### 2. Classification database
 
