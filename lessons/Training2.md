@@ -45,4 +45,7 @@ the sequence alignment.
 
 ---
 ### References
+- [PTPN13](https://www.ncbi.nlm.nih.gov/gene/5783)
+  - Domains - Expression - Location on the Chromosome - [List of genes present in a chromosome](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/docs/humchr04.txt)this from Uniprot
+- 
 
