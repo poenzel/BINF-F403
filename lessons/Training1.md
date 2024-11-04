@@ -110,3 +110,9 @@ clashes.
 - [Practical PyMol for beginners](https://pymolwiki.org/index.php/Practical_Pymol_for_Beginners) - PyMol Wiki
 - [PyMol User Guide](./files/pymol_userman.pdf)
 
+### Additional 
+- [Asimmetric unit and Biological Unit](https://pdb101.rcsb.org/learn/guide-to-understanding-pdb-data/biological-assemblies)
+- [Biological Unit](https://proteopedia.org/wiki/index.php/Biological_unit)
+- [Running Wizard from Command Line](https://pymol.org/dokuwiki/doku.php?id=command:wizard)
+- 
+
