@@ -45,7 +45,12 @@ the sequence alignment.
 
 ---
 ### References
-- [PTPN13](https://www.ncbi.nlm.nih.gov/gene/5783)
-  - Domains - Expression - Location on the Chromosome - [List of genes present in a chromosome](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/docs/humchr04.txt)this from Uniprot
+- [Uniprot Online Tutorial](https://www.ebi.ac.uk/training/online/courses/uniprot-exploring-protein-sequence-and-functional-info/) - Open Course
+- [How to use Uniprot](https://youtube.com/playlist?list=PLs84PsexbuAgu4UBJXrh7mtwkZa641P_O&si=XkMGnVL3pSGN3GlW) - Youtube Playlist
+PTPN13
+- [NIH](https://www.ncbi.nlm.nih.gov/gene/5783)
+  - Domains - Expression - Location on the Chromosome - [List of genes present in a chromosome - Uniprot](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/docs/humchr04.txt)
+
+- 
 - 
 
