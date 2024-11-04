@@ -5,6 +5,8 @@ Classification and protein structure alignment
 
 ### 1. Search for protein domains and their structure
 
+![Screenshot 2024-11-04 at 15 04 11](https://github.com/user-attachments/assets/776c45b9-72ce-4785-ac30-94fa4fef3803)
+
 - Search in the Uniprot database (www.uniprot.org) the protein with the code Q12923.
 - What is the sequence length of this protein?
 - Can you cite some domains found in this protein?
