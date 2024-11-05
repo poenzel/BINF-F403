@@ -19,8 +19,8 @@ Classification and protein structure alignment
 A] Find on the PDB website (http://www.rcsb.org) the proteins with the following PDB code: 3PDZ, 1Z86 and 1RGW. Download the sequences in FASTA format (menu "Download Files" on the top right of the web page).
 
 B] Click on the "Annotations" tab at the top of the PDB web pages.
-• What is the CATH classification of these domains?
-• What is the Protein Family Annotation of these domains?
+- What is the CATH classification of these domains?
+- What is the Protein Family Annotation of these domains?
 
 C] Go to the InterPro database (https://www.ebi.ac.uk/interpro/). Perform a text search for this
 domain in the InterPro database. What is the biological function of the domain?
@@ -53,6 +53,7 @@ PTPN13
 - [NIH](https://www.ncbi.nlm.nih.gov/gene/5783)
   - Domains - Expression - Location on the Chromosome - [List of genes present in a chromosome - Uniprot](https://ftp.uniprot.org/pub/databases/uniprot/knowledgebase/complete/docs/humchr04.txt)
 
-- 
+rcsb
+- [CATH - rcsb help](https://www.rcsb.org/docs/search-and-browse/browse-options/cath#:~:text=CATH%20is%20a%20free%2C%20publicly,evolutionary%20relationships%20of%20protein%20domains.)
 - 
 
