@@ -41,10 +41,9 @@ Click on the "1" in the "##" column and then download the superimposed structure
 Use Pymol to visualize these superimposed structures. The aligned sequences according to the structure superimposition are available lower on the web page. Compare the aligned sequences obtained by sequence alignment (Needle) and by structure superimposition.
 
 C] Download the sequence of 1FCF from the PDB website.
-• Identify from the PDB website the Uniprot code of 1FCF. Use Uniprot to identify the limits of the PDZ domain of this protein.
-• Use Matcher and Needle to perform a local and a global sequence alignment between 1FCF and 3PDZ. Comment the results : are the PDZ domains aligned properly?
-• Use PDBeFold to superimpose the structures of 1FCF and 3PDZ. What are the alignment scores? Visualize the superimposed structures in Pymol. Analyse the sequence alignment obtained from the structure superimposition, from the PDBeFold website. What are your conclusions? Compare these results with those obtained with
-the sequence alignment.
+- Identify from the PDB website the Uniprot code of 1FCF. Use Uniprot to identify the limits of the PDZ domain of this protein.
+- Use Matcher and Needle to perform a local and a global sequence alignment between 1FCF and 3PDZ. Comment the results : are the PDZ domains aligned properly?
+- Use PDBeFold to superimpose the structures of 1FCF and 3PDZ. What are the alignment scores? Visualize the superimposed structures in Pymol. Analyse the sequence alignment obtained from the structure superimposition, from the PDBeFold website. What are your conclusions? Compare these results with those obtained with the sequence alignment.
 
 ---
 ### References
