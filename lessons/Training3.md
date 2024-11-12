@@ -19,7 +19,7 @@ Search for the human thymidylate kinase (PDB code 1E2F) in the protein databank 
 
 ### 2. Sequence – structure relationships
 
-- Read the paper of Malkov et al. (2008), available on the Virtual University, by focusing on the “Introduction” and the “Results and discussion” sections.
+- Read the paper of [Malkov et al. (2008)](https://link.springer.com/article/10.1007/s00894-008-0313-0). Mainly focus on the “Introduction” and the “Results and discussion” sections.
 - Use the Table 1 of the paper of Malkov et al. to design the following peptides, and use the tweaked ColabFold tool provided in the notebook “BINFF403_TP3_ColabFold.ipynb” to test the fold of these peptides. First, set the ColabFold “recycles” parameter to 0.
 
 - a peptide of ±20-25 amino acids that folds into an alpha helix;
