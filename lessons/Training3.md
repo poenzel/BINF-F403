@@ -1,5 +1,5 @@
 ## Training 3
-#### 30 Oct 2024
+#### 13 Nov 2024
 
 What is ColabFold - [https://github.com/sokrypton/ColabFold](https://github.com/sokrypton/ColabFold)
 The importance of single protein prediction and multimer prediction, benchmarking errors and testing working hypothesis. 
