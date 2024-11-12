@@ -2,6 +2,10 @@
 #### 30 Oct 2024
 
 What is ColabFold - [https://github.com/sokrypton/ColabFold](https://github.com/sokrypton/ColabFold)
+The importance of single protein prediction and multimer prediction, benchmarking errors and testing working hypothesis. 
+
+[AlphaFold3](https://github.com/google-deepmind/alphafold3) - "free use for academic use" 
+
 
 ### 1. Sequence – structure relationships, protein design, conformational diseases
 
@@ -50,3 +54,8 @@ C] Open in a same Pymol window the 1qlx.pdb structure, the modelled structure of
 • Do the same for the region 164-228 and its model.
 
 What is your conclusion ?
+
+---
+### Additional 
+- [Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search](https://www.nature.com/articles/s41467-022-33729-4)
+- [AF3 Google Article](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules)
