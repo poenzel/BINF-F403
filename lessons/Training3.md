@@ -1,8 +1,7 @@
 ## Training 3
 #### 30 Oct 2024
 
-What is ColabFold - [https://github.com/sokrypton/ColabFold]([url](https://github.com/sokrypton/ColabFold)) 
-
+What is ColabFold - [https://github.com/sokrypton/ColabFold]([[url](https://github.com/sokrypton/ColabFold)]
 
 ### 1. Sequence – structure relationships, protein design, conformational diseases
 
