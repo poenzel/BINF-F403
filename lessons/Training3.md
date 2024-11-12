@@ -6,6 +6,8 @@ The importance of single protein prediction and multimer prediction, benchmarkin
 
 [AlphaFold3](https://github.com/google-deepmind/alphafold3) - "free use for academic use" 
 
+<img width="600" alt="Screenshot 2024-11-12 at 22 33 22" src="https://github.com/user-attachments/assets/bfb0fddc-0abb-4fde-a674-d07486e23b19">
+- [EMBL-EBI AlphaFold Course](https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/)
 
 ### 1. Sequence – structure relationships, protein design, conformational diseases
 
