@@ -1,6 +1,9 @@
 ## Training 3
 #### 30 Oct 2024
 
+What is ColabFold - [https://github.com/sokrypton/ColabFold]([url](https://github.com/sokrypton/ColabFold)) 
+
+
 ### 1. Sequence – structure relationships, protein design, conformational diseases
 
 We will work with a Jupyter notebook in this Practicals 3, using the Google Colab environment. Create a Google Colab environment and import the Jupyter notebook "BINFF403_TP3_ColabFold.ipynb" in this environment.
