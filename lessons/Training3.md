@@ -24,14 +24,18 @@ We will work with a Jupyter notebook in this Practicals 3, using the Google Cola
 You can also install the Jupyter notebook environment on your own laptop and run the notebook on your laptop, but keep in mind that when the python scripts associated with these Practicals 3 are executed, it will be using your laptop computing power rather than that of Google's servers.
 
 ##### You will find in the notebook:
-- A modified version of ColabFold, which uses a simplified version of AlphaFold2 to model the structure of a protein sequence. This module provides also an animated picture of the modelled structure, the plDDT score of each residue and the Predicted Aligned Error. The plDDT score is a confidence score of the model. The details of this score and of the Predicted Aligned Error will be explored during Practicals 4 & 5. At this stage, consider that larger is the plDDT score, better is the model.
-- An animation module, to analyze the evolution of the modelled structure and its plDDT score along the optimization cycles (if the “recycles parameter” is different to 0).
+- A modified version of ColabFold, which uses a simplified version of AlphaFold2 to model the structure of a protein sequence. This module provides also an animated picture of the modelled structure, the pLDDT score of each residue and the Predicted Aligned Error. The pLDDT score is a confidence score of the model. The details of this score and of the Predicted Aligned Error will be explored during Practicals 4 & 5. At this stage, consider that larger is the pLDDT score, better is the model.
+- An animation module, to analyze the evolution of the modelled structure and its pLDDT score along the optimization cycles (if the “recycles parameter” is different to 0).
 
 ### 2. Limits of the secondary structures of an experimentally resolved structure
 
-Search for the human thymidylate kinase (PDB code 1E2F) in the protein databank (www.rcsb.org). Search for the secondary structure limits of the protein in PDBSum (http://www.ebi.ac.uk/pdbsum; "Protein" tab, "7 strands" and "11 helices" in the menu on the left). A secondary structure assignation is also provided in the PDB file, sections "HELIX" and "SHEET" (from the PDB website, menu "Display file", "PDB file", find the "HELIX" and "SHEET" sections). Compare both secondary structure assignations (from PDBSum and from the PDB file). Why are they slightly different?
+- Search for the human thymidylate kinase (PDB code 1E2F) in the protein databank (www.rcsb.org)
+- Search for the secondary structure limits of the protein in PDBSum (http://www.ebi.ac.uk/pdbsum; "Protein" tab, "7 strands" and "11 helices" in the menu on the left)
+- Search for the secondary structure assignation in the PDB file, sections "HELIX" and "SHEET" (from the PDB website, menu "Display file", "PDB file", find the "HELIX" and "SHEET" sections).
+- Compare both secondary structure assignations (from PDBSum and from the PDB file)
+- Why are they slightly different?
 
-### 2. Sequence – structure relationships
+### 3. Sequence – structure relationships
 
 - Read the paper of [Malkov et al. (2008)](https://link.springer.com/article/10.1007/s00894-008-0313-0). Mainly focus on the “Introduction” and the “Results and discussion” sections.
 - Use the Table 1 of the paper of Malkov et al. to design the following peptides, and use the tweaked ColabFold tool provided in the notebook “BINFF403_TP3_ColabFold.ipynb” to test the fold of these peptides. First, set the ColabFold “recycles” parameter to 0.
