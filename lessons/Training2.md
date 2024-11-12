@@ -22,12 +22,11 @@ B] Click on the "Annotations" tab at the top of the PDB web pages.
 - What is the CATH classification of these domains?
 - What is the Protein Family Annotation of these domains?
 
-C] Go to the InterPro database (https://www.ebi.ac.uk/interpro/). Perform a text search for this
-domain in the InterPro database. What is the biological function of the domain?
+C] Go to the InterPro database (https://www.ebi.ac.uk/interpro/). Perform a text search for this domain in the InterPro database. What is the biological function of the domain?
 
 ### 3. Structure superimposition
 
-Pymol will be used to visualize the superimposed structuresm but not to superimpose them.
+Pymol will be used to visualize the superimposed structures but not to superimpose them.
 
 A] Use ClustalOmega (https://www.ebi.ac.uk/jdispatcher/msa/clustalo) to perform a multiple sequence alignment of the sequences downloaded in section 2A (paste all the sequences in FASTA format). Analyse the sequence alignment, and focus on the conserved amino acids at the different sequence positions. Are these sequences highly conserved?
 Familiarize with different results option in Clustal Omega.
