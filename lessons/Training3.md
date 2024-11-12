@@ -10,6 +10,11 @@ The importance of single protein prediction and multimer prediction, benchmarkin
 
 [EMBL-EBI AlphaFold Course](https://www.ebi.ac.uk/training/online/courses/alphafold/an-introductory-guide-to-its-strengths-and-limitations/)
 
+Understanding accuracy and pLDDT in Alpha Fold - ["fascinating contrast in confidence"](https://www.ebi.ac.uk/training/online/courses/alphafold/inputs-and-outputs/evaluating-alphafolds-predicted-structures-using-confidence-scores/plddt-understanding-local-confidence/) 
+
+<img width="765" alt="Screenshot 2024-11-12 at 22 53 46" src="https://github.com/user-attachments/assets/259a71fe-39d0-4362-8de9-43cae7397693">
+
+
 ### 1. Sequence – structure relationships, protein design, conformational diseases
 
 We will work with a Jupyter notebook in this Practicals 3, using the Google Colab environment. Create a Google Colab environment and import the Jupyter notebook "BINFF403_TP3_ColabFold.ipynb" in this environment.
