@@ -5,7 +5,7 @@
 
 We will work with a Jupyter notebook in this Practicals 3, using the Google Colab environment. Create a Google Colab environment and import the Jupyter notebook "BINFF403_TP3_ColabFold.ipynb" in this environment.
 
-- [BINFF403_TP3_ColabFold.ipynb](./lessons/BINFF403_TP3_ColabFold_colab.ipynb)
+- [BINFF403_TP3_ColabFold.ipynb](./BINFF403_TP3_ColabFold_colab.ipynb)
 
 You can also install the Jupyter notebook environment on your own laptop and run the notebook on your laptop, but keep in mind that when the python scripts associated with these Practicals 3 are executed, it will be using your laptop computing power rather than that of Google's servers.
 
