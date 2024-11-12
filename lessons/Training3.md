@@ -5,13 +5,11 @@
 
 We will work with a Jupyter notebook in this Practicals 3, using the Google Colab environment. Create a Google Colab environment and import the Jupyter notebook "BINFF403_TP3_ColabFold.ipynb" in this environment.
 
-- [BINFF403_TP3_ColabFold.ipynb](./BINFF403_TP3_ColabFold_colab.ipynb)
+- [BINFF403_TP3_ColabFold.ipynb](./BINFF403_TP3_ColabFold_colab.ipynb) - Click top left on Open in Colab.
 
 You can also install the Jupyter notebook environment on your own laptop and run the notebook on your laptop, but keep in mind that when the python scripts associated with these Practicals 3 are executed, it will be using your laptop computing power rather than that of Google's servers.
 
-
-
-You will find in the notebook:
+##### You will find in the notebook:
 - A modified version of ColabFold, which uses a simplified version of AlphaFold2 to model the structure of a protein sequence. This module provides also an animated picture of the modelled structure, the plDDT score of each residue and the Predicted Aligned Error. The plDDT score is a confidence score of the model. The details of this score and of the Predicted Aligned Error will be explored during Practicals 4 & 5. At this stage, consider that larger is the plDDT score, better is the model.
 - An animation module, to analyze the evolution of the modelled structure and its plDDT score along the optimization cycles (if the “recycles parameter” is different to 0).
 
