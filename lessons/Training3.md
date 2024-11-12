@@ -69,5 +69,7 @@ What is your conclusion ?
 
 ---
 ### Additional 
-- [Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search](https://www.nature.com/articles/s41467-022-33729-4)
-- [AF3 Google Article](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules)
+- AF at the beginnning - [Faster AlphaFold protein structure predictions using ColabFold implemented in Chimera](https://www.youtube.com/watch?v=gIbCAcMDM7E)
+- AF criticisms - [Predicting the structure of large protein complexes using AlphaFold and Monte Carlo tree search](https://www.nature.com/articles/s41467-022-33729-4)
+- AF today - [AF3 Google Article](https://blog.google/technology/ai/google-deepmind-isomorphic-alphafold-3-ai-model/#life-molecules)
+- Quanta Magazine Video after Nobel to Alpha Fold - [How many animations you need to explain a concept like this?](https://www.youtube.com/watch?v=cx7l9ZGFZkw)
