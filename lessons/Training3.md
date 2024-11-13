@@ -48,7 +48,7 @@ What is the impact on the structure of the helix if you introduce three Pro or G
 
 - Refold the sequence designed above to fold into an helix – turn – helix structure by setting the Colabfold “recycles” parameter to 48. Use the “Animate” module of the notebook to analyze the evolution of the structure and the plDDT score along the 48 cycles.
 
-### 3. Analysis of a part of the prion protein sequence
+### 4. Analysis of a part of the prion protein sequence
 
 - The Creutzeldt-Jakob disease is caused by the aggregation of the prion protein. The structure of the cellular (non pathogenic) prion protein is available in the PDB with the code 1QLX, and contains mainly alpha helices. The aggregated form of the prion protein contains mainly beta strands.
 
