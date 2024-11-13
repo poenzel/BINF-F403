@@ -75,8 +75,11 @@ What is the impact on the structure of the helix if you introduce three Pro or G
 - Open in the same Pymol window the 1qlx.pdb structure, the modelled structure of the regions 173-194 and 164-228
 - Compare the structure of the modelled regions to the structure of these regions in the complete protein, 1qlx.
 - To do this:
-  - Create objects in Pymol containing the corresponding regions in 1qlx.
-  - The commands for this are "create region173-194, resi 173-194 and 1qlx” and "create region164-228, resi 164-228 and 1qlx”.
+  - Create objects in Pymol containing the corresponding regions in 1qlx
+    ```
+    create region173-194, resi 173-194 and 1qlx
+    create region164-228, resi 164-228 and 1qlx
+    ```     
   - Use the Pymol Align tool to superimpose the modelled structure of the sequence 173-194 to the region 173-194 of 1qlx.
   - Do the same for the region 164-228 and its model 
 
