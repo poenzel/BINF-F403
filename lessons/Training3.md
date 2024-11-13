@@ -53,6 +53,16 @@ What is the impact on the structure of the helix if you introduce three Pro or G
 - The Creutzeldt-Jakob disease is caused by the aggregation of the prion protein. The structure of the cellular (non pathogenic) prion protein is available in the PDB with the code 1QLX, and contains mainly alpha helices. The aggregated form of the prion protein contains mainly beta strands.
 
 - The files prion_seq1.fasta and prion_seq2.fasta contain the sequence of the prion protein regions 173-194 and 164-228, respectively.
+  - prion_seq1.fasta
+  ```
+  >Region 173-194 of 1qlx
+  NNFVHDCVNITIKQHTVTTTTK
+  ```
+  - prion_seq2.fasta
+  ```
+  >Region 164-228 of 1qlx
+  RPMDEYSNQNNFVHDCVNITIKQHTVTTTTKGENFTETDVKMMERVVEQMCITQYERESQAYYQRGS
+  ```
 - Download the PDB file 1QLX from the PDB website and open it in Pymol
 - Which structure is adopted by these sequence regions in the structure of the whole protein ?
 - Submit the prion_seq1.fasta sequence to ColabFold (set the “recycles” parameter to 12).
