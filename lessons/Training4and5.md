@@ -7,18 +7,25 @@ This practical focuses on the modelling of protein structures by comparative mod
 a version of AlphaFold2. You will create different models for the acyl carrier protein of
 Rhodospirillum centenum. The quality of your models will be evaluated with QmeanDisco and
 Procheck. These tools are available here:
+
 • QmeanDisco: https://swissmodel.expasy.org/qmean/
+
 • Procheck, via "PDBSum Generate": https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/Generate_on.html
+
 
 What is the QmeanDisco score based on and how to interpret its value? Use the following
 documents to answer this question:
+
 • https://swissmodel.expasy.org/qmean/help
+
 • Information about lDDT score is available here: https://swissmodel.expasy.org/lddt/help/#overview
 
 A plDDT score is also provided for AlphaFold models. Use the following documents to
 interpret the plDDT score:
+
 • Supplementary material of the AlphaFold paper, section 1.9.6 page 37 (the document is
 on the Virtual University).
+
 • FAQ https://alphafold.ebi.ac.uk/faq section “How confident should I be in a
 prediction?”
 
