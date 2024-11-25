@@ -1,25 +1,27 @@
 ## Training 4 and 5
-### 27 Nov 2024 and 4 Dec 2024
+
 ### 3D structure modelling
+### 27 Nov 2024 and 4 Dec 2024
 
 This practical focuses on the modelling of protein structures by comparative modelling and by
 a version of AlphaFold2. You will create different models for the acyl carrier protein of
 Rhodospirillum centenum. The quality of your models will be evaluated with QmeanDisco and
 Procheck. These tools are available here:
-QmeanDisco: https://swissmodel.expasy.org/qmean/
-Procheck, via "PDBSum Generate":
-https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/Generate_on.html
+• QmeanDisco: https://swissmodel.expasy.org/qmean/
+• Procheck, via "PDBSum Generate": https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/Generate_on.html
+
 What is the QmeanDisco score based on and how to interpret its value? Use the following
 documents to answer this question:
 • https://swissmodel.expasy.org/qmean/help
-• Information about lDDT score is available here:
-https://swissmodel.expasy.org/lddt/help/#overview
+• Information about lDDT score is available here: https://swissmodel.expasy.org/lddt/help/#overview
+
 A plDDT score is also provided for AlphaFold models. Use the following documents to
 interpret the plDDT score:
 • Supplementary material of the AlphaFold paper, section 1.9.6 page 37 (the document is
 on the Virtual University).
 • FAQ https://alphafold.ebi.ac.uk/faq section “How confident should I be in a
 prediction?”
+
 ### 1. Comparative modelling of the 3D structure of the acyl carrier protein of Rhodospirillum centenum: manual approach
 
 The uniprot code of the acyl carrier protein of Rhodospirillum centenum (ACP) is B6IN76; its sequence is available in FASTA format on Uniprot (http://www.uniprot.org). In this first section, you will do manually each step of a comparative modelling: search of possible templates, selection of a template, sequence alignment between the target and the template, modelling and evaluation of the quality of the model.
