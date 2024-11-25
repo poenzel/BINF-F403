@@ -120,6 +120,9 @@ Group the models according to their structural similarity (evaluated by the rmsd
 C] Use the "super" command, to superimpose all the models on one the 6 models and to identify the regions where the stuctural differences are the largest.
 
 <br>
-
 ---
-### References
+<br>
+
+### Additional
+
+• QMEANDisCo paper: https://academic.oup.com/bioinformatics/article/36/6/1765/5614424
