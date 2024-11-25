@@ -45,7 +45,10 @@ Save the PDB file of the model.
 
 E] Analyze the quality of this model.
 
+<br>
+
 ### 2. Comparative modelling of the 3D structure of the acyl carrier protein of Rhodospirillum centenum: semi-automatic approach
+
 The HHPRed server combined to Modeller (https://toolkit.tuebingen.mpg.de/#/tools/hhpred) will be used.
 
 A] Submit the ACP sequence to the HHPred server. Describe the first step performed by HHPred. Several templates are proposed. Compare these templates to those identified with Blast in section 1.B. (sequence identity, quality of the template structure, …).
@@ -54,10 +57,18 @@ B] Select the first template and click on "Model using selection". HHPred will a
 
 C] Analyze the quality of this model.
 
-### 3. Comparative modelling of the 3D structure of the acyl carrier protein of Rhodospirillum
-centenum: automatic approach
+<br>
+
+### 3. Comparative modelling of the 3D structure of the acyl carrier protein of Rhodospirillum centenum: automatic approach
+
 Use the SwissModel server (https://swissmodel.expasy.org) to build a model of ACP. Select a
-different template than that used in sections 1 and 2. Identify the template that has been used. Save the PDB file of the model. Analyze the quality of this model.
+different template than that used in sections 1 and 2.
+
+Identify the template that has been used. Save the PDB file of the model.
+
+Analyze the quality of this model.
+
+<br>
 
 ### 4. Modelling of the 3D structure of the acyl carrier protein of Rhodospirillum centenum with ColabFold
 
@@ -80,6 +91,8 @@ plDDT score.
 
 E] Analyze the quality of these two models with Qmean and Procheck.
 
+<br>
+
 ### 5. AlphaFold model
 
 An AlphaFold model is available on the Uniprot page of the protein (“Structure” section).
@@ -87,6 +100,8 @@ An AlphaFold model is available on the Uniprot page of the protein (“Structure
 A] Download the PDB file of the AlphaFold model from Uniprot.
 
 B] Evaluate the quality of this model.
+
+<br>
 
 ### 6. Comparison of the models
 
@@ -102,6 +117,9 @@ B] Open the 6 PDB files of the models in a same window in Pymol. Write a python 
 
 Group the models according to their structural similarity (evaluated by the rmsd value).
 
-C] Use the "super" command, to superimpose all the models on one the 5 models and to identify the regions where the structural differences are the largest.
+C] Use the "super" command, to superimpose all the models on one the 6 models and to identify the regions where the stuctural differences are the largest.
+
+<br>
+
 ---
 ### References
