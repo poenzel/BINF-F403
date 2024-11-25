@@ -1,8 +1,7 @@
 ## Training 4 and 5
 ### 27 Nov 2024 and 4 Dec 2024
+### 3D structure modelling
 
-
-3D structure modelling
 This practical focuses on the modelling of protein structures by comparative modelling and by
 a version of AlphaFold2. You will create different models for the acyl carrier protein of
 Rhodospirillum centenum. The quality of your models will be evaluated with QmeanDisco and
