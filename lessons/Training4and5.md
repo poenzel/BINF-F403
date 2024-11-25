@@ -12,7 +12,6 @@ Procheck. These tools are available here:
 
 • Procheck, via "PDBSum Generate": https://www.ebi.ac.uk/thornton-srv/databases/pdbsum/Generate_on.html
 
-
 What is the QmeanDisco score based on and how to interpret its value? Use the following
 documents to answer this question:
 
@@ -28,6 +27,8 @@ on the Virtual University).
 
 • FAQ https://alphafold.ebi.ac.uk/faq section “How confident should I be in a
 prediction?”
+
+<br>
 
 ### 1. Comparative modelling of the 3D structure of the acyl carrier protein of Rhodospirillum centenum: manual approach
 
