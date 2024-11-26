@@ -123,6 +123,6 @@ C] Use the "super" command, to superimpose all the models on one the 6 models an
 ---
 <br>
 
-### Additional
+### References
 
 • QMEANDisCo paper: https://academic.oup.com/bioinformatics/article/36/6/1765/5614424
