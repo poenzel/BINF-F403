@@ -133,3 +133,4 @@ C] Use the "super" command, to superimpose all the models on one the 6 models an
 
 • HHpred paper: https://pubmed.ncbi.nlm.nih.gov/15980461/
 
+• SWISS-MODEL paper: https://pubmed.ncbi.nlm.nih.gov/29788355/
