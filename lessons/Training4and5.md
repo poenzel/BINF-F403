@@ -126,3 +126,6 @@ C] Use the "super" command, to superimpose all the models on one the 6 models an
 ### References
 
 • QMEANDisCo paper: https://academic.oup.com/bioinformatics/article/36/6/1765/5614424
+• AlphaFold paper: https://www.nature.com/articles/s41586-021-03819-2
+• Modeller paper: https://pmc.ncbi.nlm.nih.gov/articles/PMC5031415/
+
